@@ -62,12 +62,12 @@ main{
 }
 
 .left-col{
-    width: 40%;
+    width: 45%;
     float: left;
     text-align: justify;
 }
 .right-col{
-    width: 40%;
+    width: 45%;
     float: right;
 }
 
@@ -76,6 +76,6 @@ i{
     display: inline;
 }
 
-h3{
+h3,h4,h5{
     display: inline;
 }

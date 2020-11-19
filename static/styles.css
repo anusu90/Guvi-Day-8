@@ -2,6 +2,7 @@ html{
     width: 70%;
     margin-left: 15%;
     font-family: 'Nunito', sans-serif;
+    font-weight: 200;
 }
 
 header{
@@ -61,10 +62,20 @@ main{
 }
 
 .left-col{
-    width: 50%;
+    width: 45%;
     float: left;
+    text-align: justify;
 }
 .right-col{
     width: 50%;
     float: right;
+}
+
+i{
+    color: chocolate;
+    display: inline;
+}
+
+h3{
+    display: inline;
 }

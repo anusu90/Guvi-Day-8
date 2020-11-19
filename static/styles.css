@@ -62,13 +62,20 @@ main{
 }
 
 .left-col{
-    width: 45%;
+    width: 46%;
     float: left;
     text-align: justify;
+    padding-right: 4%;
+    border-right: darkgray solid 2px;
+    margin-right: 0px;
 }
 .right-col{
-    width: 45%;
+    width: 46%;
     float: right;
+    text-align: justify;
+    padding-left: 3%;
+    margin-left: 0px;
+    /* border-left: black solid 2px; */
 }
 
 i{
